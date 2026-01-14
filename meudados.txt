@@ -1,0 +1,266 @@
+    1  pkg upgrade & apt update
+    2  pkg install pip
+    3  search pip
+    4  pip install
+    5  pkg install python-pip
+    6  storage-termux
+    7  termux-setup-storage
+    8  install python-pip
+    9  pkg install python-pip
+   10  exit
+   11  pkg install python-pip
+   12  pip
+   13  pkg rust
+   14  pkg i rust
+   15  pip install rust
+   16  pkg i ffmpeg
+   17  pip i ffmpeg
+   18  pip install ffmpeg
+   19  pip install spotdl
+   20  spotdl
+   21  ls
+   22  cd spotDL
+   23  spotdl
+   24  spotdl https://open.spotify.com/album/3a6N26rUIoOqOo3KZbv7ES?si=_gVpInRgT9254ghHmkRO4A
+   25  spotdl https://open.spotify.com/track/2eN7lyt9IMuz5LoKegDHJc?si=V6oPUuQGTy2LkyAOFeKqRg
+   26  spotdl https://open.spotify.com/track/3StnM9Gak8X6i663eW3RkN?si=cUvGJJkxTHGEx1P3GQed-w
+   27  https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT?si=_wMShGedTFCKKNkiJmCOSA
+   28  spot https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT?si=_wMShGedTFCKKNkiJmCOSA
+   29  spotdl https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT?si=_wMShGedTFCKKNkiJmCOSA
+   30  spotdl https://open.spotify.com/track/5ZWEVQAbqZHjXT38ZXryyu?si=ktLK8_48T2aL5dIcRPtK8w
+   31  spotdl https://open.spotify.com/track/5dc75otHKe4RVgpuJHwory?si=eG4fEj91SLmUxOY5f5u1Zg
+   32  spotdl https://open.spotify.com/track/5BzKe0W7YdPRz1ge6UT39W?si=Vtxzxd8GS5WSX2Zd-TuL3A
+   33  spotdl https://open.spotify.com/track/0rh5OTy00ngziGgEgZQweu?si=WSFtZKgORcK5Vf5idZSEvg
+   34  spotdl https://open.spotify.com/album/25rL9pllmRoaJi01O3FOBH?si=ew2mJv4uTdWvNg1yuMFA6A
+   35  spotdl https://open.spotify.com/track/2dWujNH8Kg1gahy1KfKAvJ?si=lGPs6IVQQ5-SO6nPc8toYg
+   36  spotdl https://open.spotify.com/album/7MCaRrvT6ZSWVNFr2ClXeP?si=ipxmVlK0R3CuV25C-PzJHg
+   37  spotdl https://open.spotify.com/track/2AV1xp8r2tmgzYVsR4iRu3?si=e0H75xmnRXOk_Oyi8D0GXA
+   38  spotdl https://open.spotify.com/track/3HRHrZSaX8r54e7NW1lL4o?si=xuDqTaa8T-W2hQ0bC_S64w
+   39  spotdl https://open.spotify.com/track/3TQpaNVt1KGVtRYHUYg5Uo?si=Mr0FgL0kTh6CtFbl-NImTQ
+   40  spotdl https://open.spotify.com/track/0bthhobHF1CUF2Evhhq5X2?si=f157PFxJS92Jzs7diLscCQ
+   41  spotdl https://open.spotify.com/track/5oRoQdp8v2o7L28dIHQvPr?si=g1pAjW-rQIOCWTNehGnG8Q
+   42  spotdl https://open.spotify.com/track/6Fm3vfLqlhYW3nOmDuvbVG?si=lNh1Vw73TpK3tbzoXcqB0g
+   43  spotdl https://open.spotify.com/track/60LAae4EzXrJ2BLwvfMfJH?si=iLkXdBvITFiX4C3a9SHHwQ
+   44  spotdl https://open.spotify.com/track/6wo46BeQOCdEem9YxVv8gS?si=_R_fcIT7SvCacghORFkoJg
+   45  spotdl https://open.spotify.com/track/3vRuytLIqabcgO1RftaxNc?si=_51IXlATSiixGLWPlWTX4g
+   46  spotdl https://open.spotify.com/track/52uABJnwvuAX9LvgrtmWRT?si=nggxnbzJQZ-TBdkopgeFYQ
+   47  exit
+   48  cd /storage/emulated/0/PendriveX/spotDL
+   49  la
+   50  ls
+   51  exit
+   52  pkg install android-tools nmap -y
+   53  nmap
+   54  nmap scanner
+   55  nmap scan
+   56  nmap -sP 196.168.1.46
+   57  pkg install tcpdump
+   58  ip a
+   59  pkg install iproute2
+   60  ip a
+   61  ip addrs
+   62  ip addr show
+   63  ip r
+   64  ip l
+   65  ip neighbour show
+   66  arp --a
+   67  arp -a
+   68  ip a
+   69  nmap -sn 192.168.1.46/24
+   70  stop
+   71  exit
+   72  bash install.sh
+   73  exit
+   74  pkg install git -y
+   75  git clone https://github.com/khansaad1275/Termux-YTD2.0/
+   76  cd Termux-YTD2.0
+   77  cd ~
+   78  ls
+   79  cd Termux
+   80  cd Termux-YTD2.0
+   81  bash
+   82  exit
+   83  https://youtu.be/vei3L7ApPB8?si=AI2GzVwXTCozYVEx
+   84  ydl
+   85  ls
+   86  yt-dl
+   87  https://youtu.be/vei3L7ApPB8?si=AI2GzVwXTCozYVEx
+   88  exiy
+   89  exit
+   90  wget https://raw.githubusercontent.com/laraib07/TermuxBackupTools/master/rewind && chmod u+x rewind && mv rewind $PREFIX/bin/
+   91  pkg install wget
+   92  wget https://raw.githubusercontent.com/laraib07/TermuxBackupTools/master/rewind && chmod u+x rewind && mv rewind $PREFIX/bin/
+   93  dpkg --list
+   94  pkg list all
+   95  dpkg list all
+   96  dpkg --list
+   97  pkg list all
+   98  pkg list-all
+   99  catnet
+  100  pkg list-all > list.txt
+  101  exit
+  102  history | grep -E "pkg install|pip install"
+  103  exit
+  104  history | grep -E "pkg install|pip install"
+  105  cd storage/0
+  106  ls
+  107  cd storage
+  108  ls
+  109  cd shared
+  110  ls
+  111  history > termuxbrabo.txt
+  112  exit
+  113  netcat
+  114  netcat 100.64.200.100
+  115  netcat 100.64.200.171
+  116  netcat 100.64.200.172
+  117  exit
+  118  exot
+  119  exit
+  120  cd storage
+  121  ls
+  122  cd shared
+  123  ls
+  124  nano monitor.sh
+  125  ls
+  126  nano ouvinte.sh
+  127  ls
+  128  nano basico_monitor.sh
+  129  pkg update && pkg upgrade -y
+  130  exit
+  131  pkg install netcat procps
+  132  ls
+  133  cd storage/shared
+  134  ls
+  135  chmod +x monitor.sh
+  136  ls
+  137  chmod +x monitor.sh
+  138  ls
+  139  ./monitor.sh
+  140  chmod x+ monitor.sh
+  141  chmod +x nome_do_arquivo.sh
+  142  chmod +x monitor.sh
+  143  ./monitor.sh
+  144  chmod 700 nome_do_arquivo.sh
+  145  chmod 700 monitor.sh
+  146  ./monitor.sh
+  147  exit
+  148  ls
+  149  chmod +x monitor.sh
+  150  ./monitor.sh
+  151  netstat -tn
+  152  nmap
+  153  ip
+  154  nmap -sn 192.168.1.0/24
+  155  ip
+  156  nmap -sn 100.114.166.253
+  157  nano
+  158  nano monitor.sh
+  159  ./monitor.sh
+  160  nano monitor.sh
+  161  ./monitor.sh
+  162  chmod +x monitor.sh
+  163  ./monitor.sh
+  164  ip
+  165  nmap -sn 100.114.166.253
+  166  ./monitor.sh
+  167  nc  100.114.166.253 8888
+  168  nc  100.144.110.253 8888
+  169  nc  10.144.110.153 8888
+  170  EXIT
+  171  exit
+  172  sh rish
+  173  ks
+  174  ls
+  175  cd storage/shared/ApkEditor/tmp
+  176  ls
+  177  adb install gen_signed.apk
+  178  exit
+  179  sh rish
+  180  exit
+  181  nc -i -p 3500
+  182  nc -i -p 1234
+  183  nc -l -p 2550
+  184  while true; do date; sleep 3; done | nc localhost 1234
+  185  nc localhost 4444
+  186  ip
+  187  ip ddr
+  188  addr
+  189  ip addr
+  190  nc -l -p 10.144.110.153
+  191  while true; do echo "testando"; sleep 3; done | nc 127.0.0.1 1234
+  192  echo "testando" | nc 127.0.0.1 1234
+  193  ifconfig | grep "inet"
+  194  nc -l -p 1234
+  195  while true; do dumpsys cpuinfo | grep "CPU usage" && dumpsys battery | grep "level"; sleep 3; done | nc <IP_do_servidor> 1234
+  196  while true; do termux-battery-status | grep percentage; top -n 1 | grep "CPU%"; sleep 3; done | nc 10.148.79.205 1234
+  197  ip addr
+  198  ifconfig | grep "inet"
+  199  ip -o -4 addr show wlan0 | awk '{print $4}'
+  200  ifconfig wlan0 | grep "inet"
+  201  ifconfig
+  202  while true; do termux-battery-status | grep percentage; top -n 1 | grep "CPU%"; sleep 3; done | nc 10.148.110.153 1234
+  203  nc 10.148.110.153 1234
+  204  h
+  205  j
+  206  nc 10.148.110.153 1234
+  207  nc 100.148.110.153 1234
+  208  nc 10.148.110.153 1234
+  209  nc 10.144.110.153 1234
+  210  while true; do termux-battery-status | grep percentage; top -n 1 | grep "CPU%"; sleep 3; done | nc 10.144.110.153 1234
+  211  pkg install termux-api
+  212  while true; top -n 1; free -h; sleep 3; done | nc 10.144.110.153 1234
+  213  while true; do top -n 1; free -h; sleep 3; done | nc 10.144.110.153 1234
+  214  watch -n 3 'top -n 1; free -h' | nc 10.144.110.153 1234
+  215  while true; do   top -b -n 1 | head -n 5;   free -h;   sleep 3; done | nc 10.144.110.153 1234
+  216  while true; do   top -b -n 1 | head -n 5;   free -h;   sleep 3; done | nc 10.144.110.153 1234
+  217  while true; do   free -h;   sleep 3; done | nc 10.144.110.153 1234
+  218  while true; do echo -e "\033c"; free -h; sleep 3; done | nc 10.144.110.153 1234
+  219  exit
+  220  adb
+  221  pkg i termux-api
+  222  sh rish
+  223  nc -l -p 1234 | DISPLAY=:1 ffplay -
+  224  pkg install ffplay
+  225  pkg i ffmpeg
+  226  ffplay -version
+  227  pkg install ffmpeg
+  228  ffplay -version
+  229  pkg install x11-repo
+  230  pkg install ffplay
+  231  sh rish
+  232  exit
+  233  ls
+  234  sh rish
+  235  pkg install android-tools
+  236  sh /system/bin/adb shell screenrecord --output - | nc 10.148.79.205 1234
+  237  sh
+  238  cd /system
+  239  ls
+  240  cd bin
+  241  ls
+  242  sh rish
+  243  cd
+  244  ls
+  245  sh rish
+  246  ls
+  247  sh rish
+  248  pkg i x11-repo
+  249  ffplay -version
+  250  sh /system/bin/screenrecord --output - | nc 10.201.140.153 1234
+  251  sh rish
+  252  ifconfig | grep "inet"
+  253  ping 10.201.140.153
+  254  sh /system/bin/screenrecord --output - | nc 10.201.140.153 1234
+  255  screenrecord --output - | nc 10.201.140.153 1234
+  256  sh rish
+  257  netcat 100.64.200.171
+  258  screenrecord --output - | nc 10.201.140.153 1234
+  259  sh rush
+  260  sh rish
+  261  sh rish screenrecord --output /sdcard/gravacao.mp4
+  262  sh rish ls /system/bin/screenrecord
+  263  sh rish
+  264  sh rish ls /system/bin/screenrecord
+  265  exit
+  266  history > meudados.txt
